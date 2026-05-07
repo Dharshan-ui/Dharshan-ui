@@ -112,9 +112,9 @@ const dharshan = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharshan-ui&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dharshan-ui&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshan-ui&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Dharshan-ui&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e"/>
 
 </div>
 
