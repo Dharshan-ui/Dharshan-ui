@@ -24,9 +24,9 @@
 const dharshan = {
   name      : "Dharshan R",
   college   : "Panimalar Engineering College",
-  degree    : "B.Tech Information Technology (3rd Year)",
+  degree    : "B.Tech Information Technology (4th Year)",
   location  : "Chennai, Tamil Nadu 🇮🇳",
-  interests : ["Full Stack Dev", "AI/ML Pipelines", "NLP", "System Design"],
+  interests : ["Full Stack Dev", "AI/ML Pipelines", "NLP"],
   currently : "Building real things — from music apps to sentiment engines",
   motto     : "Building at the intersection of what works and what's interesting."
 };
